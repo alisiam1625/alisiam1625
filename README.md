@@ -29,8 +29,8 @@
 
 <a href="https://t.me/Anas_shaikhkhalil" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Khalil-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-<a href="https://www.facebook.com/profile.php?id=100010992287268" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Khalil-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100010992287268" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Khalil-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/king_flutter/" target="_blank"><img src="https://img.shields.io/badge/-Anas%20Khalil-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 
 &nbsp;
 
